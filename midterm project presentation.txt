@@ -1,0 +1,23 @@
+NETFLIX MIDTERM PROJECT
+Group Memebers: Nayan Naik and Fabiola Manjoh
+Type of Project: Business Intelligence - Visualisations in Tableau
+
+	we will be using a Netflix data set fron Kaggle.com titled Netflix Movies and Tv Shows and it has 11 columns and 8807 rows that
+consists lists of all the movies and tv shows available on Netflix as of  Oct 18th, 2021, along with details like - type, movie/tv show 
+cast, directors, country of production,ratings, the actual release year, duration, genre(listed_in) and description just to name a few.
+The data is Categorical in nature so its a good fit for our visualisation
+The data is fairly clean that is the column names are already in lower case and it doesnt have as many null values and even when present 
+doesnt affect the result of our work as much as we aim to focus on Visualisations.The requires adjustments so that it can serve the purpose
+for whoch we plan to use some of which will be listed below.
+Some of the cleaning steps are:
+	-checking to see percentage of missing values in each column with the descsion to drop if its more than 40%
+	-Adjusting the listed_in column so that each row is identified/grouped with a particular genre of film as it will make it 
+possible and easier for visualisations
+	-Grouping the unique values in the listed_in column so that visualtions are possible and make more sense
+*Visualisataions to be made. The goal is to be able show things like
+	-The country in which the most netflix movies are produced
+	-Visualise the various genres available on Netflix
+	-The most popular drector for Netflix movies
+	-which type (movies or tv shows) are more available
+	-The proportion of movies or Tv shows in a genre
+	-
