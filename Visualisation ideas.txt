@@ -1,0 +1,45 @@
+OBJECTIVE OF THE PROJECT
+
+What problem are we trying to solve with/for Netflix and what is the purpose of our visualisation
+
+OPTIONS
+-We can talk about the fact that corona caused more people to stay at home and hence subscribe to the platform and
+ hence causing a huge surge in the numbers and the platform had to adjust to this surge in deciding what to produce 
+what to add on the platform and how to kake recommendation to the new subscribers to keep them and the old ones to also keep
+them from propbably cahnging subscriptions
+
+   -They needed to be aware of the subscribers preferences with respect to type (movie or tv show , with respect to the genre
+ with respect to the duration that is how much time viewers are willing to invest in watvhing amovie or  tv show so that they know
+ how to move forward and better handle 
+        
+ -They need to be aware of things like popularity of actors withing a given time frame to contribute to the descision of weather or
+not adding a movie that has a particular cast will be good for them as a business and will allow thier subscribers to enjoy what they
+are watching as that could ba factor that affects the viewings
+ - (Completed) *which countries (top ten) are the biggest in production of netflix movies and maybe lookk at what genre the top three countires are 
+most prolific in (as that may mean there is more efficiency in producing such a genre in the mentioned country or that genre is more popular
+ in that country reasin why that gnere is being produced in the country etc) so that they focus efforts of producing the determined genre in 
+the country determined to most prolific in 
+            *Because Netflix is a Us b
+ -show the ratings of the genres and their numbers to see how many shows/movies were available in what rating and maybe compare to the duration
+of the show or movie to see a pattern with the duration of the movie/tv show and those allowed to watched
+
+ -Show a trend of how content has been added over the past years to be able to show that the pandemic did have an effect on how much content was being added\
+to platform (maybe give a back story to trend observed in the addition of movies ie how it was affected by corona). Also see the addition in quarters 
+and also monthly and maybe the genre will explain why this experiences a surge in such times
+	-
+
+
+
+OTHERs
+-Launced its streaming service for Korean shows in 2016
+
+
+-Thursday reported that it added 8.3 million subscribers in the fourth quarter, falling short of its initial forecast of 8.5 million.
+probably because they had expectations that matched to a situation (corona) which werent met as things got better in 2021 and over predictions were made
+-In 2019, Netflix produced 2,769 hours of original content. This is 80.15% more original content compared to the previous year. At the end of 2020,
+ Netflix had over 2,000 Netflix originals
+
+biggest bone of contention between Amazon Prime and Netflix has been the size of the content library. Amazon Prime has a smaller 
+library of available titles, but tends to offers more of the latest movies and TV shows for instant watching. Netflix, on the other 
+hand only offers TV shows and movies that are over a year
+ old (with the exception of Netflix's own productions), but has a much larger library of shows and movies than Amazon.

@@ -1,0 +1,30 @@
+OBJECTIVE
+How Netflix has evolved over the years in terms of its content and some insights about peak changes 
+
+CONCLUSIONS ON VISUALISATION
+
+*Proportion of content in platform
+-The graph shows that Netflix produces more Movies tha Tv shows as content and that could have several resoons
+ some of which are the fact that movies in their nature are shorter and mostly likely 90mins as the graph of the 
+duration and tv shows are longer in nature with one season being the most popular duration as per the graphs but
+one episode of a series has a median run time 55 minutes (as per thrillst.com)
+
+-The graph on relaease year shows a constant growth in the release of content by netflix until there is a drastic 
+drop in 2020 and that can be explained by the fact that many productions for many movies and tv shows for not only 
+netflix had to be halted or were slowed down in a bid to take precaution due to the pandemic (safety reasons)
+-The graph on year added shows a spike in amount of movies added in 2011 which we could think it was because thing 
+were going well but its actually the opposite as netflix almost crashed becaused or several reason and lost about
+800.000 subscribers and we can only assume that the spike in movies added was in a bit to entise the customers to 
+keep from unsybscribing from the platform
+-There is also a spike in amount of Tv shows added around 2016 and that can be partially explained by the descision 
+to stream Korean movies as they were already popular and well received by viewers when introduced on the platform
+-The graph continues with showing a steady fall in addition of movies from 2017 and continues to fall to 2021 but 
+with some sort of steady slope with tv shows which can also be explained by the pandemic as people were likely to 
+have more time to spare and spent more time at home which made it possible for the steady slope
+
+*Top countries and top Genres
+-It shows that the most popular country for Netflix movies production is the US hich makes sense as Netflix is a 
+US based company and it maybe more efficient to produce content in the base country
+-We can also see that the top five content genres are alost identical in all the countries though in different
+ proportions which would mean that people around the world are interested in similar things irrespective of where 
+they are with comedy being the most popularin Us and second most popular in India

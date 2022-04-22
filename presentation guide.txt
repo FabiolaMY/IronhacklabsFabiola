@@ -1,0 +1,55 @@
+PRESENTATION GUIDE
+Project Objective/Purpose
+-To observe/analyse and see how the release and addition of content on Netflix has 
+evolved over the years  
+-To see peak changes and research what might have been the cause for those changes
+ (research beyond the data but related to the data)
+-Discuss factors that might have contributed to the trend movement and peak changes
+
+DATA DESCRIPTION
+we will be using a Netflix data set fron Kaggle.com titled Netflix Movies and Tv Shows and
+it has 11 columns and 8807 rows that consists lists of all the movies and tv shows available
+on Netflix as of  Oct 18th, 2021, along with details like - type, movie/tv show cast,
+directors, country of production,ratings, the actual release year, duration, genre(listed_in) 
+and description just to name a few.
+The data is Categorical in nature so its a good fit for our visualisation
+The data is fairly clean that is the column names are already in lower case and it doesnt 
+have as many null values and even when present doesnt affect the result of our work as much
+as we aim to focus on Visualisations.The requires adjustments so that it can serve the
+purpose for which we plan to use some of which will be listed below.
+Some of the cleaning steps (done with python) are:
+	-checking to see percentage of missing values in each column with the descsion to 
+	drop if its more than 40%
+	-Adjusting the listed_in column so that each row is identified/grouped with a 
+	particular genre of film as it will make it possible and easier for visualisations
+	-Grouping the unique values in the listed_in column so that visualtions are possible
+	 and make more sense
+
+GENERIC VIEW OF OBJECTIVE OF PROJECT
+-The graph shows that Netflix produces more Movies tha Tv shows as content and that could have several 
+resoons some of which are the fact that movies in their nature are shorter and mostly likely 90mins as
+the graph of the duration and tv shows are longer in nature with one season being the most popular duration 
+as per the graphs but one episode of a series has a median run time 55 minutes (as per thrillst.com)
+
+-The graph on year added shows a spike in amount of movies added in 2011 which we could think it was because thing 
+were going well but its actually the opposite as netflix almost crashed becaused or several reason and lost about
+800.000 subscribers and we can only assume that the spike in	
+-There is also a spike in amount of Tv shows added around 2016 and that can be partially explained by the descision 
+to stream Korean movies as they were already popular and well received by viewers when introduced on the platform
+-The graph continues with showing a steady fall in addition of movies from 2017 and continues to fall to 2021 but 
+with some sort of steady slope with tv shows which can also be explained by the pandemic as people were likely to 
+have more time to spare and spent more time at home which made it possible for the steady slope
+
+CONTENT RELEASE(release year)
+The graph on relaease year shows a constant growth in the release of content by netflix until there is a
+drastic drop in 2020 and that can be explained by the fact that many productions for many movies and tv shows
+for not only netflix had to be halted or were slowed down in a bid to take precaution due to the pandemic 
+(safety reasons)
+
+TOP COUNTRIES AND GENRES
+-It shows that the most popular country for Netflix movies production is the US which makes sense as Netflix is a 
+US based company and it maybe more efficient to produce content in the base country
+-We can also see that the top five content genres are almost identical in all the countries though in different
+ proportions which would mean that people around the world are interested in similar things irrespective of where 
+they are with comedy being the most popular in Us and second most popular in India
+

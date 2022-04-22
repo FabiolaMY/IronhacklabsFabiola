@@ -9,7 +9,7 @@ The data is Categorical in nature so its a good fit for our visualisation
 The data is fairly clean that is the column names are already in lower case and it doesnt have as many null values and even when present 
 doesnt affect the result of our work as much as we aim to focus on Visualisations.The requires adjustments so that it can serve the purpose
 for whoch we plan to use some of which will be listed below.
-Some of the cleaning steps are:
+Some of the cleaning steps (done with python) are:
 	-checking to see percentage of missing values in each column with the descsion to drop if its more than 40%
 	-Adjusting the listed_in column so that each row is identified/grouped with a particular genre of film as it will make it 
 possible and easier for visualisations
